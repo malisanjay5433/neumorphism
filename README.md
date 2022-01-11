@@ -1,6 +1,10 @@
 # neumorphism
 
-A new Flutter project.
+It’s a new, minimal way to design with a soft, extruded plastic look. It’s looks cool way to design UI and UX now days. Please check Light and Dark mode using BoxShadow.
+
+
+<img width="300" alt="" src= "https://user-images.githubusercontent.com/8912602/148888795-c0e710c1-01ad-49ad-8552-9f5db711244b.png">
+<img width="300" alt="" src= "https://user-images.githubusercontent.com/8912602/148888677-88e827b8-6e2b-4729-b75b-43eb550d0a74.png">
 
 ## Getting Started
 
